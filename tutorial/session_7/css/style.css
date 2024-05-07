@@ -1,0 +1,29 @@
+body{
+    direction: rtl;
+    font-family: Tahoma ;
+}
+.heading_1{
+    color: palevioletred;
+    font-size: 20 px;   
+}
+.m_r50{
+    margin-right: 700px;
+}
+.border_120{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #CDE8E5;
+    /* margin */
+    margin-right: 100px;
+    margin-left: 100px;
+    /* padding */
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.border_120:hover{
+    background-color: rgb(230, 205, 176);
+}
