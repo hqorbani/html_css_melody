@@ -27,3 +27,15 @@ body{
 .border_120:hover{
     background-color: rgb(230, 205, 176);
 }
+
+.card_product{
+    border-style: solid;
+    border-color: rgb(170, 185, 185);
+    border-width: 1px;
+    width: 200px;
+    height: 70px;
+}
+
+.card_product:hover{
+    border-width: 3px;
+}
