@@ -1,0 +1,32 @@
+body{
+    direction: rtl;
+    background-color: #4D869C;
+}
+
+.product{
+    background-color: #7AB2B2;
+    width: 150px;
+    height: 100px;
+    border-width: 1px;
+    border-color: rgb(129, 129, 111);
+    border-style: solid;
+    border-radius: 5px;
+    /* فاصله از حاشیه صفحه */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    /* فاصله از حاشیه کادر */
+    padding-right: 5px;
+    padding-top: 5px;
+    padding: 5px 10px
+
+}
+.product:hover{
+    background-color: #5c8585;
+    /* width: 152px;
+    height: 102px; */
+
+}
+.product_list{
+    display: flex;
+}
